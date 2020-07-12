@@ -12,7 +12,9 @@ Subtraction -
 Multiplication *
 Division /
 Remainder %
+The remainder operator is not related to percentages. The result of a % b is the remainder of the integer division of a by b.
 Exponeration **
+The Exponeration operator a ** b multiplies a by itself b times.
 
 
 */
